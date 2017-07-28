@@ -1,0 +1,7 @@
+CREATE TABLE ISO21.V_CUST_REFR_SEQ
+(
+   I_CUST char(4),
+   T_REFR_GRP char(8),
+   N_SEQ_TRK INTEGER
+)
+;
